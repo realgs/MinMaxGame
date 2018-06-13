@@ -1,0 +1,5 @@
+C:\Users\jhg\Downloads\KalahaServer\client_CS\client_CS\bin\Release\client_CS.exe
+C:\Users\jhg\Downloads\KalahaServer\client_CS\client_CS\bin\Release\client_CS.pdb
+C:\Users\jhg\Downloads\KalahaServer\client_CS\client_CS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jhg\Downloads\KalahaServer\client_CS\client_CS\obj\Release\client_CS.exe
+C:\Users\jhg\Downloads\KalahaServer\client_CS\client_CS\obj\Release\client_CS.pdb

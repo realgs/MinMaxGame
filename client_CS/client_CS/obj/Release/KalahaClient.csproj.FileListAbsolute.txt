@@ -1,0 +1,5 @@
+C:\Users\jhg\AppData\Local\Temporary Projects\KalahaClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jhg\AppData\Local\Temporary Projects\KalahaClient\bin\Release\KalahaClient.exe
+C:\Users\jhg\AppData\Local\Temporary Projects\KalahaClient\bin\Release\KalahaClient.pdb
+C:\Users\jhg\AppData\Local\Temporary Projects\KalahaClient\obj\Release\KalahaClient.exe
+C:\Users\jhg\AppData\Local\Temporary Projects\KalahaClient\obj\Release\KalahaClient.pdb
