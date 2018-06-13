@@ -1,0 +1,1 @@
+java -cp client_Java ClientKalaha localhost 8888 ai

@@ -1,0 +1,1 @@
+java -cp server ServerKalaha 8888
